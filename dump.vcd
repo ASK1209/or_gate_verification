@@ -1,0 +1,33 @@
+$date
+Mon Feb 23 09:23:57 2026
+$end
+$version
+Riviera-PRO Version 2025.04.139.9738
+$end
+$timescale
+1 ns
+$end
+
+$scope module or_gate_tb $end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # y $end
+
+$scope module dut $end
+$var wire 1 $ a $end
+$var wire 1 % b $end
+$var reg 1 & y $end
+$upscope $end
+
+$upscope $end
+
+$enddefinitions $end
+#200
+$dumpvars
+0!
+0"
+0#
+0$
+0%
+0&
+$end
