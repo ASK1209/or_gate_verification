@@ -24,3 +24,9 @@ The simulation generates a text-based coverage report in the console.
 
 ## 🐞 Deliberate Bug Testing
 To the design  a deliberate bug can be added (AND logic instead of OR) to demonstrate the power of **SystemVerilog Assertions**. You will see assertion failures in the log indicating mismatches.
+
+## 👩‍💻 Author
+
+**Ahalya Sivakumar**  
+Design Verification Engineer  
+SystemVerilog | SVA | Functional Coverage | UVM (Learning)
